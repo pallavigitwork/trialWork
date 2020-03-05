@@ -1,0 +1,5 @@
+botium is a tool to test
+chatbots
+like selenium tests webapps
+and appium tests mobileapps
+
